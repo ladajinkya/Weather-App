@@ -37,7 +37,7 @@ class SettingsViewModel {
                 unitValue = value
                 
             }
-            print("unitvalue = \(unitValue)")
+           
             return Unit(rawValue: unitValue)!
             
            

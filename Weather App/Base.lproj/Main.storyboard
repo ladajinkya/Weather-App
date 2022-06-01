@@ -164,6 +164,7 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="Settings" id="fUz-zw-uNE">
                         <barButtonItem key="rightBarButtonItem" title="Done" id="5ux-9p-0Nz">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
                                 <action selector="DonePressed:" destination="WT4-Os-n5S" id="nDN-O7-zmg"/>
                             </connections>
